@@ -1,0 +1,12 @@
+{
+  "name": "deepfake-detector",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Utility scripts for the DeepfakeDetector Python project",
+  "scripts": {
+    "dev": "python web-app.py",
+    "start": "python web-app.py",
+    "train": "python main_trainer.py",
+    "classify": "python classify.py"
+  }
+}
